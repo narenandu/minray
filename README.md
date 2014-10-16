@@ -1,4 +1,4 @@
-raytrace_2014
+minray
 =============
 
-This is my attempt at writing a minimal raytracer from scratch (2014)
+testing Business card raytracer by Andrew Kensler
